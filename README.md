@@ -43,15 +43,3 @@ If you want to contribute please read the guidelines in [CONTRIBUTING.MD](INSERT
 ## Code-Of-Conduct
 [CODE_OF_CONDUCT.MD](INSERT-YOUR-CODE_OF_CONDUCT.MD-LINK)
 -->
-
-## License
-[MIT LICENSE](LICENSE)
-
-## Credits
-Reference: </br>
-[Hacktoberfest-2022-img](https://github.com/shubham9672/Hacktoberfest2022)
-
-### Contributors 
-<a href = "https://github.com/killerraj369/Resume-Maker/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=killerraj369/Resume-Maker"/>
-</a>
